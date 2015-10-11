@@ -1,0 +1,6 @@
+Welcome to the wonderful world of Xinu!
+xsh$ fProCon
+the value produced 120
+                      the value produced 120
+                                            the value produced 120
+                                                                  xsh$
